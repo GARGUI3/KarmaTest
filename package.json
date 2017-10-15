@@ -1,0 +1,18 @@
+{
+  "name": "KarmaTest",
+  "version": "1.0.0",
+  "description": "KarmaTest",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "latest",
+    "body-parser": "latest",
+    "express": "latest",
+    "jsonwebtoken": "latest",
+    "mongodb": "^2.2.33",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "nodemon": "^1.12.1"
+  },
+  "author": "Alejandro García Guillén",
+  "license": "ISC"
+}
